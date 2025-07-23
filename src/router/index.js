@@ -6,7 +6,7 @@ import Islands from "/src/components/Islands.vue";
 import Volunteer from "/src/components/Volunteer.vue";
 import Hackathon from "/src/components/Hackathon.vue";
 import AboutUs from "/src/components/AboutUs.vue";
-import TermsOfUse from "/src/components/TermsofUse.vue";
+import TermsOfUse from "/src/components/TermsOfUse.vue";
 import PrivacyPolicy from "/src/components/PrivacyPolicy.vue";
 
 const routes = [
